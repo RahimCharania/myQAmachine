@@ -1,0 +1,17 @@
+go back to being non sudoer/unprivileged user
+
+now do a module show or module avail.
+
+Confirm the packages you want are there and installed correctly and so are their dependencies.
+
+Once you have that in order call the packages/modules you want
+
+example:
+
+module load gcc
+module load openmpi
+module load r/3.5.0
+
+and so on.
+
+Now run as you normally would.
