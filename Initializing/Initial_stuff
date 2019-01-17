@@ -1,0 +1,11 @@
+QA machine: rkc10-iqa
+
+Machine Specs:
+RAM : 32 gb
+CPUs: 4
+model name	: Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+
+Gain sudo(if not added to sudo grp ask sys admin to add you to the sudo user group for you QA machine)
+$ sudo su
+
+If it works you are good to go!
