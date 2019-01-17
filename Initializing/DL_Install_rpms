@@ -1,0 +1,13 @@
+Become su and do the following:
+
+step1: Copy rpm link from artifactory and wget to download 
+
+step2: mkdir an install directory for the current rpms you want to install(basic housekeeping stuff)
+
+step3: wget -c XXXX.rpm --no-check-certificate
+
+step4: yum install XXXX.rpm
+
+step5: repeat for dependencies until you have them satisfied and have the final pkg you want installed.
+
+make sure you have dependencies in correct order.
