@@ -9,5 +9,4 @@ pcre8.42-gcc5.3.1-lmod-8.42-1.el6.noarch.rpm      zlib1.2.11-gcc5.3.1-lmod-1.2.1
 
 Also installed:
 
-r-pkgs3.5-3.5-2.el6.x86_64.rpm 
-# for R packages
+r-pkgs3.5-3.5-2.el6.x86_64.rpm  # for R packages
